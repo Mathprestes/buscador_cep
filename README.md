@@ -1,7 +1,8 @@
 #  Buscador de CEP
+React Native - Axios
 -------------------------------------
 
-## :eye_speech_bubble: **Telas*
+## :eye_speech_bubble: Telas
 
 <div align="center">
 
